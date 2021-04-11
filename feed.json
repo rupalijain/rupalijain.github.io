@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Rupali&#x27;s Musings",
+    "description": "",
+    "home_page_url": "https://rupalijain.com",
+    "feed_url": "https://rupalijain.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rupali Jain"
+    },
+    "items": [
+        {
+            "id": "https://rupalijain.com/hello.html",
+            "url": "https://rupalijain.com/hello.html",
+            "title": "Hello!",
+            "summary": "Hello world",
+            "content_html": "<p>Hello world</p>",
+            "author": {
+                "name": "Rupali Jain"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-11T11:50:21-07:00",
+            "date_modified": "2021-04-11T11:50:21-07:00"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Rupali&#x27;s Musings</title>
+    <link href="https://rupalijain.com/feed.xml" rel="self" />
+    <link href="https://rupalijain.com" />
+    <updated>2021-04-11T11:50:21-07:00</updated>
+    <author>
+        <name>Rupali Jain</name>
+    </author>
+    <id>https://rupalijain.com</id>
+
+    <entry>
+        <title>Hello!</title>
+        <author>
+            <name>Rupali Jain</name>
+        </author>
+        <link href="https://rupalijain.com/hello.html"/>
+        <id>https://rupalijain.com/hello.html</id>
+
+        <updated>2021-04-11T11:50:21-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello world
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello world</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
